@@ -9,7 +9,7 @@ export default {
   promptSymbolColor: '#20C90E',
   fontSize: '16px',
   url: "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt6YzBia2FjZ3F4YnZxeTZ2d3l0aDZyamE4dTVlYnZua3c2cDViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24hRt4e4FOX6PxVgGy/giphy.gif')",
-  backgroundSize: "60px 100px",
+  backgroundSize: "60px 60px",
   backgroundRepeat: "no-repeat",
   backgroundPosition: "center",
 };
