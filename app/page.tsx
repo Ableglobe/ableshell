@@ -126,7 +126,7 @@ export default function Home() {
             <button onClick={async () => {
               runCommand("cat /home/murphy/about.txt")
             }} className="flex justify-between">
-              <h1 className="m-0 p-0 text-left font-roboto font-bold sm:text-3xl text-3xl text-white">turtleshell.me &gt;&gt; Sasha Thomas</h1>
+              <h1 className="m-0 p-0 text-left font-roboto font-bold sm:text-3xl text-3xl text-white">ableshell.me &gt;&gt; Liam Greene</h1>
             </button>
           </div>
         </div>
