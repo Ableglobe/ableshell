@@ -1,6 +1,8 @@
-This is Sasha's website.
+This is Liam's website.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Inspired/Tweaked, forked from turtleshell.me by Sasha Thomas https://github.com/sashathomas/turtleshell 
 
 ## Getting Started
 
