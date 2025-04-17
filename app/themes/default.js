@@ -14,12 +14,3 @@ export default {
   height: '50vh',
   width: '100%'
 };
-
-export default2 {
-  ...defaultColors,
-  fontSize: '1.1rem',
-  spacing: '1%',
-  fontFamily: 'monospace',
-  height: '50vh',
-  width: '70%'
-};
