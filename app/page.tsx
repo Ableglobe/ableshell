@@ -89,7 +89,7 @@ export default function Home() {
     // cat aboutme.txt on first load
     let ignore = false;
     if (!ignore) {
-      runCommand("cat /home/murphy/about.txt")
+      runCommand("cat /home/liam/about.txt")
       ignore = true;
     }
 
@@ -165,19 +165,19 @@ export default function Home() {
           <div className="flex flex-row sm:flex-col justify-between sm:justify-normal sm:pr-24 pb-4">
             <div className='turtle-button sm:pb-10 sm:pr-0'>
               <button onClick={async () => {
-                runCommand("cat /home/murphy/experience.txt")
+                runCommand("cat /home/liam/experience.txt")
               }} className="text-white text-sm lg:text-base md:text-md font-roboto rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2.5 sm:w-32">Experience
               </button>
             </div>
             <div className='turtle-button sm:pb-10 sm:pr-0'>
               <button onClick={async () => {
-                runCommand("cat /home/murphy/personal.txt")
+                runCommand("cat /home/liam/personal.txt")
               }} className="text-white text-sm md:text-base font-roboto rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2 sm:w-32">Personal
               </button>
             </div>
             <div className='turtle-button sm:pb-10'>
               <button onClick={async () => {
-                runCommand("cat /home/murphy/about.txt")
+                runCommand("cat /home/liam/about.txt")
               }} className="text-white text-sm md:text-base font-robot rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2 sm:w-32">About
               </button>
               <div className="items-center pt-12 hidden md:flex">
@@ -209,7 +209,7 @@ export default function Home() {
       <div className='turtle-footer'>
         <footer className="bg-transparent">
           <div className="container mx-auto text-center text-white">
-            Made with ❤️ in the PNW
+            Made with 🔥 at Purdue University
           </div>
         </footer>
       </div>
