@@ -110,7 +110,7 @@ export default function Home() {
   }
 
   function getPrompt() {
-    return typeof window !== 'undefined' && window.innerWidth <= 425 ? "murphy:" : "murphy@turtle:";
+    return typeof window !== 'undefined' && window.innerWidth <= 425 ? "ableglobe:" : "able@globe:";
   }
 
   function getFocus() {
