@@ -6,13 +6,13 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'turtleshell',
-  description: 'Sasha\'s personal website.',
+  title: 'ableshell',
+  description: 'Liam\'s personal website.',
   openGraph: {
-    title: 'turtleshell.me',
-    description: 'Sasha\'s personal website',
-    url: 'https://turtleshell.me',
-    siteName: 'turtleshell.me',
+    title: 'ableshell.me',
+    description: 'Liam\'s personal website',
+    url: 'https://ableshell.me',
+    siteName: 'ableshell.me',
     images: [
       {
         url: 'https://64.media.tumblr.com/tumblr_lzh7c59zmd1qje612o1_r1_400.gif',
