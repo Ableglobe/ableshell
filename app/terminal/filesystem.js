@@ -12,5 +12,23 @@ const customFileSystem = Terminal.FileSystem.create({
   '/vghs': {},
 });
 
-// Example of checking if a directory exists
-const isHomeDefined = Terminal.DirOp.hasDirectory(customFileSystem, '/home');
+// Checking if all important directories exist
+const directoriesToCheck = [
+  '/home',
+  '/home/Liam',
+  '/home/Lawrence',
+  '/home/Ted',
+  '/home/Jenny',
+  '/etc',
+  '/var',
+  '/vghs'
+];
+
+const checkResults = {};
+
+directoriesToCheck.forEach(dir => {
+  checkResults[dir] = Terminal.DirOp.hasDirectory(customFileSystem, dir);
+});
+
+// Output check results (optional, for debugging)
+console.log(checkResults);
