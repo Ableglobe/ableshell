@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     siteName: 'ableshell.me',
     images: [
       {
-        url: 'https://imgur.com/a/NYNJMi3',
+        url: 'https://i.imgur.com/ovzUbQ6.png',
         width: 600,
         height: 600,
       },
