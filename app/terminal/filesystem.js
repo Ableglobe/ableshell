@@ -2,7 +2,7 @@ import { FileSystem } from 'javascript-terminal-turtle';
 
 // File contents
 const experienceContent = {
-  content: "Security Innovation - Remote - Pentester\n-> August 2023 - Present\n\nSecurity Innovation - Seattle, WA - Security Engineer Intern\n-> May 2023 - August 2023\n\nPurdue University - West Lafayette, IN - Windows System Administration TA\n-> August 2021 - May 2023\n\nDonaldson - Minneapolis, MN - SOC Intern\n-> June 2022 - August 2022"
+  content: "Purdue University - West Lafayette, IN\n-> Undergraduate in Cybersecurity; Minor in Communications August 2021 - Present\n\nKimball Electronics - Indianapolis, IN - IT Client and Infrastructure Support Intern\n-> May 2025 - August 2025"
 };
 
 const aboutContent = {
@@ -10,7 +10,7 @@ const aboutContent = {
 };
 
 const personalContent = {
-  content: "HackTheBox - Online Cybersecurity CTF\n-> Peaked top 10 in the US, top 80 globally (100+ solved machines)\n\nHackTheBox - Pro Labs\n-> Cybernetics (28 machines, Red Team Operator L2)\n-> Offshore (21 machines, Pentester L3)\n-> Zephyr (17 machines, Red Team Operator L1)\n-> Dante (14 machines, Pentester L2)\n\nVulnLab - Cybersecurity Labs\n-> Completed standalone machines, AD chains, and Wutai Lab\n\nNational Cyber League Spring 2022 CTF\n-> 1st in Web App Exploitation, 17th overall\n\nTracerFire 2022 CTF - Purdue University\n-> 1st Place"
+  content: "TurtleCTF - Purdue University Student Made CTF\n-> #1 in current leaderboard (5 boxes)\n\nGoogle Cybersecurity Certification\n-> December 2024\n\nISC2 Candidate\n-> December 2024"
 };
 
 const passwdContent = {
