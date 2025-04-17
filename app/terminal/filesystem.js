@@ -6,11 +6,11 @@ const experienceContent = {
 };
 
 const aboutContent = {
-  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nI've had many classes at Purdue that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, system admin courses, cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince."
+  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nDuring my time at Purdue I've had classes that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, Linux and Windows System Admin courses, Cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince."
 };
 
 const personalContent = {
-  content: "TurtleCTF - Purdue University Student Made CTF\n-> #1 in current leaderboard (5 boxes)\n\nGoogle Cybersecurity Certification\n-> December 2024\n\nISC2 Candidate\n-> December 2024"
+  content: "TurtleCTF - Purdue University Student Made CTF\n-> #1 in current leaderboard (5 boxes)\n\nGoogle Cybersecurity Certification\n-> December 2024\n\nISC2 Candidate\n-> December 2024\n\nWorking towards Network+/Security+/A+\n->January 2025 - Present"
 };
 
 const passwdContent = {
