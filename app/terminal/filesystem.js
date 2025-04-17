@@ -18,11 +18,19 @@ const passwdContent = {
 };
 
 const hostnameContent = {
-  content: "vghs"
+  content: "vghs\nhttps://www.youtube.com/playlist?list=PLsMtUWKCmBPRFzqglpk4YQlNFy8wzSXBN\nBrian D IS GOING ALLLLLLLLL THEEEEEEEE WAYYYYYYYYYY!!!"
 };
 
 const hostsContent = {
   content: "127.0.0.1\tlocalhost\n127.0.1.1\tvghs"
+};
+
+const lawrenceContent = {
+  content: "Lawrence Pemberton\nLet's hanglide out of this looser emporium!"
+};
+
+const tedContent = {
+  content: "Ted Wong or Theodore Wong\nI don't have butterflies, I have DRAGONFLIES."
 };
 
 // Directory structure with full paths
@@ -33,7 +41,9 @@ const fileSystemStructure = {
   "/home/liam/personal.txt": personalContent,
   "/home/liam/experience.txt": experienceContent,
   "/home/lawrence": {},
+  "/home/lawrence/name.txt": lawrenceContent,
   "/home/ted": {},
+  "/home/ted/name.txt": tedContent,
   "/home/jenny": {},
   
   "/etc": {},
