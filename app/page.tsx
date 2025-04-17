@@ -134,28 +134,28 @@ export default function Home() {
       <div className='turtle-links pb-12'>
         <div className="grid grid-cols-5 max-w-xs">
           <div className=''>
-            <a href="https://github.com/sashathomas" target='_blank'>
-              <FaGithub color="white" size={"30px"} />
+            <a href="https://github.com/ableglobe" target='_blank'>
+              <FaGithub color="black" size={"30px"} />
             </a>
           </div>
           <div className=''>
-            <a href="https://www.linkedin.com/in/sasha-thomas2718/" target='_blank'>
-              <FaLinkedin color="white" size={"30px"} />
+            <a href="https://www.linkedin.com/in/liam--greene/" target='_blank'>
+              <FaLinkedin color="black" size={"30px"} />
             </a>
           </div>
           <div className=''>
-            <a href="mailto:thoma987@purdue.edu">
-              <FaEnvelope color="white" size={"30px"} />
+            <a href="mailto:greene97@purdue.edu">
+              <FaEnvelope color="black" size={"30px"} />
             </a>
           </div>
           <div className=''>
-            <a href="https://app.hackthebox.com/profile/229472" target='_blank'>
-              <SiHackthebox color="white" size={"30px"} />
+            <a href="https://app.hackthebox.com/profile/2355114" target='_blank'>
+              <SiHackthebox color="black" size={"30px"} />
             </a>
           </div>
           <div className=''>
-            <a href="https://tryhackme.com/p/MurphyTheTurtle" target='_blank'>
-              <SiTryhackme color="white" size={"30px"} />
+            <a href="https://tryhackme.com/p/ableglobe" target='_blank'>
+              <SiTryhackme color="black" size={"30px"} />
             </a>
           </div>
         </div>
