@@ -124,7 +124,7 @@ export default function Home() {
         <div className="pb-5">
           <div className="justify-start">
             <button onClick={async () => {
-              runCommand("cat /home/murphy/about.txt")
+              runCommand("cat /home/liam/about.txt")
             }} className="flex justify-between">
               <h1 className="m-0 p-0 text-left font-roboto font-bold sm:text-3xl text-3xl text-black">ableshell.me &gt;&gt; Liam Greene</h1>
             </button>
@@ -181,7 +181,7 @@ export default function Home() {
               }} className="text-white text-sm md:text-base font-robot rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2 sm:w-32">About
               </button>
               <div className="items-center pt-12 hidden md:flex">
-                <p className="mr-4 text-3xl text-white">🐱</p>
+                <p className="mr-4 text-3xl text-white">🔥</p>
                 <label className="relative cursor-pointer">
                   <input type="checkbox" className="sr-only peer" onClick={toggleCat} />
                   <div
@@ -208,7 +208,7 @@ export default function Home() {
       </div >
       <div className='turtle-footer'>
         <footer className="bg-transparent">
-          <div className="container mx-auto text-center text-white">
+          <div className="container mx-auto text-center text-black">
             Made with 🔥 at Purdue University
           </div>
         </footer>
