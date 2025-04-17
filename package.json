@@ -1,8 +1,8 @@
 {
-  "name": "turtleshell",
+  "name": "ableshell",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sashathomas.github.io/react-gh-pages",
+  "homepage": "https://ableglobe.github.io/react-gh-pages",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "javascript-terminal": "github:sashathomas/javascript-terminal",
+    "javascript-terminal": "github:ableglobe/javascript-terminal",
     "javascript-terminal-turtle": "^1.0.2",
     "next": "14.0.3",
     "react": "^18",
