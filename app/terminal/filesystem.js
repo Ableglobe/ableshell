@@ -6,7 +6,7 @@ const experienceContent = {
 };
 
 const aboutContent = {
-  content: "Hi, I'm Liam.\n\nI started my education at the University of Washington in Seattle. In 2020, I transferred to Purdue University \nto pursue Cybersecurity in the Dept. of Computer & Information Technology, where I earned my bachelors.\n\nI currently work as a penetration tester for Security Innovation. I primarily work on web applications, but my\ninterests in the field include AD, network, IoT, and hardware hacking."
+  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nI've had many classes at Purdue that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, system admin courses, cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince."
 };
 
 const personalContent = {
