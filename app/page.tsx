@@ -166,19 +166,19 @@ export default function Home() {
             <div className='turtle-button sm:pb-10 sm:pr-0'>
               <button onClick={async () => {
                 runCommand("cat /home/liam/experience.txt")
-              }} className="text-white text-sm lg:text-base md:text-md font-roboto rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2.5 sm:w-32">Experience
+              }} className="text-white text-sm lg:text-base md:text-md font-roboto rounded-full bg-red-300 hover:bg-red-300 py-2 px-2.5 sm:w-32">Experience
               </button>
             </div>
             <div className='turtle-button sm:pb-10 sm:pr-0'>
               <button onClick={async () => {
                 runCommand("cat /home/liam/personal.txt")
-              }} className="text-white text-sm md:text-base font-roboto rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2 sm:w-32">Personal
+              }} className="text-white text-sm md:text-base font-roboto rounded-full bg-red-300 hover:bg-red-300 py-2 px-2 sm:w-32">Personal
               </button>
             </div>
             <div className='turtle-button sm:pb-10'>
               <button onClick={async () => {
                 runCommand("cat /home/liam/about.txt")
-              }} className="text-white text-sm md:text-base font-robot rounded-full bg-blue-500 hover:bg-blue-700 py-2 px-2 sm:w-32">About
+              }} className="text-white text-sm md:text-base font-robot rounded-full bg-red-300 hover:bg-red-300 py-2 px-2 sm:w-32">About
               </button>
               <div className="items-center pt-12 hidden md:flex">
                 <p className="mr-4 text-3xl text-white">🔥</p>
