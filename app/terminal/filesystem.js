@@ -10,7 +10,7 @@ const aboutContent = {
 };
 
 const personalContent = {
-  content: "TurtleCTF - Purdue University Student Made CTF\n-> #1 in current leaderboard (5 boxes)\n\nGoogle Cybersecurity Certification\n-> December 2024\n\nISC2 Candidate\n-> December 2024\n\nWorking towards Network+/Security+/A+\n->January 2025 - Present"
+  content: "TurtleCTF - Purdue University Student Made CTF\n-> #1 in current leaderboard (5 boxes)\n\nGoogle Cybersecurity Certification\n-> December 2024\n\nISC2 Candidate\n-> December 2024\n\nWorking towards CompTIA Network+/Security+/A+\n->January 2025 - Present"
 };
 
 const passwdContent = {
@@ -33,6 +33,29 @@ const tedContent = {
   content: "Ted Wong or Theodore Wong\nI don't have butterflies, I have DRAGONFLIES."
 };
 
+const resolvContent = {
+  content: "      %%%%%@@@@@@%##%%%%@@@@%%          
+    @@%%@#-----------------=+#@@%       
+  %@@%#=*@*--------------------=#@@@    
+  @@+====*%-----------------------#@%   
+  %@*====*@%*+=--------------------=%@% 
+  #@#====*%**=-=--------------------=%% 
+ %@%==+*+=+===%*---------------------*@@
+ @#===--**==*#@=---+****++=-----------#@
+%@@*==---+#+*+@%%%##@%*+--------------*%
+%*=%@%+--=#===##=----=*+--------------=@
+@+=%@%#@@@+=+%@%=-----------*%--------=@
+%#==%@@@@#==*%=+%@#+=----==-=@#=--+=--+@
+%@%+::*@#===*%=:#@@#@@%####=-#%###*=--#@
+ %@%##*+=--=+%@-=@@@@@%=#@=-=%*------=%%
+ #%+++==----=#%@+-====+%%--=#%-------#@@
+ %@%*=------==**#%%%%%*=--*%#-------*@@ 
+   %@@@%#**+=-------==+*%@*=------=%@@  
+     %@@%*++********++==--------=#@%    
+        @@@@@@@@@%%%#=-------=#@@%      
+            #@@@@%%#######%@@@%         "
+  };
+
 // Directory structure with full paths
 const fileSystemStructure = {
   "/home": {},
@@ -50,6 +73,7 @@ const fileSystemStructure = {
   "/etc/passwd": passwdContent,
   "/etc/hostname": hostnameContent,
   "/etc/hosts": hostsContent,
+  "/etc/resolv.conf": resolvContent,
   
   "/var": {},
   "/vghs": {}
