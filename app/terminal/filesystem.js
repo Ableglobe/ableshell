@@ -6,7 +6,7 @@ const experienceContent = {
 };
 
 const aboutContent = {
-  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nDuring my time at Purdue I've had classes that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, Linux and Windows System Admin courses, Cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince.\n\nHere's a link to my Hiking/Camping Photos!\nhttps://ableglobe.pixieset.com/hikingcamping/"
+  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nDuring my time at Purdue I've had classes that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, Linux and Windows System Admin courses, Cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince.\n\nI've started on my networking classes this Fall semester 2025. \n\nHere's a link to my Hiking/Camping Photos!\nhttps://ableglobe.pixieset.com/hikingcamping/"
 };
 
 const personalContent = {
@@ -34,7 +34,7 @@ const tedContent = {
 };
 
 const resolvContent = {
-  content: "Why are cybersec people so lonely?\nThey are afraid of attachments."
+  content: "Why are cybersec people so lonely?\nThey're afraid of attachments."
 };
 
 // Directory structure with full paths
