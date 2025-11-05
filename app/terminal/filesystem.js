@@ -2,11 +2,11 @@ import { FileSystem } from 'javascript-terminal-turtle';
 
 // File contents
 const experienceContent = {
-  content: "Purdue University - West Lafayette, IN\n-> Undergraduate in Cybersecurity; Minor in Communications August 2021 - Present\n\nKimball Electronics - Indianapolis, IN - IT Client and Infrastructure Support Intern\n-> May 2025 - August 2025"
+  content: "Purdue University - West Lafayette, IN\n-> Undergraduate in Cybersecurity; Minor in Communications August 2021 - Present\n\nKimball Electronics - Indianapolis, IN - IT Client and Infrastructure Support Intern\n-> May 2025 - August 2025\n\nRovercode - Indianapolis, IN - Frontend Web Dev Intern\n-> July 2019 - Febuary 2020"
 };
 
 const aboutContent = {
-  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nDuring my time at Purdue I've had classes that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, Linux and Windows System Admin courses, Cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince.\n\nI've started on my networking classes this Fall semester 2025. \n\nHere's a link to my Hiking/Camping Photos!\nhttps://ableglobe.pixieset.com/hikingcamping/"
+  content: "Hi, I'm Liam.\n\nI started my education at Purdue University in West Lafayette, Indiana, in 2021. My interests range from everything from Penetration Testing (Red Team), Defense (Blue Team), to hiking and camping!\n\nDuring my time at Purdue I've had classes that tested my limits and improved my skills.\n\nI've taken Digital Forensics courses, Linux and Windows System Admin courses, Cryptography courses, and much more.\n\nI'm excited to get into the professional world and gain expereince.\n\nI've started on my networking classes this Fall semester 2025. With DNS, IP Addressing, and Subnetting as well as specific protocols.\n\nHere's a link to my Hiking/Camping Photos!\nhttps://ableglobe.pixieset.com/hikingcamping/"
 };
 
 const personalContent = {
